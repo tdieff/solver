@@ -9,7 +9,7 @@ I execute 'python3 main.py' in Terminal (from within the 'solver' directory) on 
 Included in the directory 'solver' should be 7 files:
 
 	(1)	README.md
-	(2) DESIGN.md
+	(2) 	DESIGN.md
 	(3)	input.py
 	(4)	postfix.py
 	(5)	solve.py
