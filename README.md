@@ -1,4 +1,5 @@
 # solver
+Author: Taylor Dieffenbach
 
 Written in Python, 'Solver' is a command-line program that solves a variety of simple user-input 'solve-for-x' equations.
 
